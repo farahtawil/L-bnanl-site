@@ -1,26 +1,25 @@
 # L-bnanl-site
 Lübnanlı site - Ödev Projesi
-Project Name – Website Development-Lebanese kitchen
+Proje Adı – Web Sitesi Geliştirme – Lübnan Mutfağı
 
-Project Overview
-A completed website project developed - for a homework.
+Proje Genel Bakış
+Bir ödev kapsamında geliştirilmiş, tamamlanmış bir web sitesi projesi.
 
-Live Website
+Canlı Web Sitesi
 
-Visit the Website
+Web Sitesini Ziyaret Edin
 
-Project Features
+Proje Özellikleri
 
-User-friendly interface
+Kullanıcı dostu arayüz
 
-Responsive website design
+Duyarlı (responsive) web sitesi tasarımı
 
-Clear navigation and layout
+Anlaşılır navigasyon ve düzen
 
-
-Technologies Used
+Kullanılan Teknolojiler
 
 HTML
 
-Project Status
-Completed
+Proje Durumu
+Tamamlandı
